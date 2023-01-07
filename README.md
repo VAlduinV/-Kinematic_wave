@@ -5,7 +5,7 @@ In dynamic and geophysical mass fluid flows driven by gravity and pressure, such
 In these flows, the mass and momentum equations can be combined to give the kinematic wave equation. Depending on the flow configuration, the kinematic wave can be linear or non-linear depending on whether the phase velocity of the wave is constant or variable.
 A kinematic wave can be described by a simple partial differential equation with one unknown field variable (such as flow or wave height, h) in terms of two independent variables, namely time (t) and space (x) with some parameters (coefficients) containing information about the physics and geometry of the flow. In general, a wave can be approaching and dispersing. However, in simple situations, the kinematic wave is basically an approaching one.
 
-![image](https://user-images.githubusercontent.com/86537032/211124988-fa80f598-767e-428a-a659-662d7ee95953.png)
+        ![image](https://user-images.githubusercontent.com/86537032/211124988-fa80f598-767e-428a-a659-662d7ee95953.png)
 ![image](https://user-images.githubusercontent.com/86537032/211125155-b30494c5-5dc9-48ea-8a39-499f3c60a97d.png)
 
 
