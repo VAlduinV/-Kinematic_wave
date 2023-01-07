@@ -6,6 +6,7 @@ In these flows, the mass and momentum equations can be combined to give the kine
 A kinematic wave can be described by a simple partial differential equation with one unknown field variable (such as flow or wave height, h) in terms of two independent variables, namely time (t) and space (x) with some parameters (coefficients) containing information about the physics and geometry of the flow. In general, a wave can be approaching and dispersing. However, in simple situations, the kinematic wave is basically an approaching one.
 
 ![image](https://user-images.githubusercontent.com/86537032/211124988-fa80f598-767e-428a-a659-662d7ee95953.png)
+![image](https://user-images.githubusercontent.com/86537032/211125094-f5d87f1d-533e-439e-b8a7-5456a9c7a66b.png)
 
 Тип руху, званий кінематичним хвильовим рухом, виникає в тому випадку, коли є певне функціональне співвідношення, що зв'язує щільність і потік деякої фізичної величини, що зберігається. Кінематичними можна приблизно вважати хвилі, обумовлені підйомом води в річках, а також явища в потоці транспорту; у цих випадках зберігається відповідно кількість води та кількість автомобілів. 
 У динамічних і геофізичних масових потоках рідини, керованих силою тяжіння та тиску, таких як океанські хвилі, лавини, сміттєві потоки, селеві потоки, раптові повені тощо, кінематичні хвилі є важливими математичними інструментами для розуміння основних особливостей пов’язаних хвильових явищ.  Ці хвилі також застосовуються для моделювання руху транспортних потоків на шосе.  
