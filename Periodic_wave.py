@@ -15,8 +15,7 @@ def f_periodic_wave(ksi, c0, a, lyambda):
     :param lyambda:
     :return: y
 
-    Краще всього вводити c0 = 0, a = 10, lyambda = 12
-    Під інші дані потрібно вже індувідуально підгоняти
+
     """
     return c0 + a * np.sin(2 * np.pi * ksi / lyambda)
 
